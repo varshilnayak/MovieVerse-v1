@@ -1,0 +1,18 @@
+.app{
+  background-color: grey;
+  min-height: 100vh;
+  color: white;
+  padding-top: 75px;
+  padding-bottom: 70px;
+}
+
+.defTitle{
+  display: flex;
+  justify-content: center;
+  padding: 4px;
+  color: black;
+}
+
+*{
+  scroll-behavior: smooth;
+}
